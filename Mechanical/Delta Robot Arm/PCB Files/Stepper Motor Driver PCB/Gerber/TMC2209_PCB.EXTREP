@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: TMC2209_PCB.GBR   2/2/2020  8:15:30 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.Outline            Mechanical 1                            
+.Dimensions         Mechanical 2                            
+.GM4                Mechanical 4                            
+.Assembly Top       Mechanical 8                            
+.3D Top             Mechanical 13                           
+.3D Bottom          Mechanical 14                           
+.Courtyard Top      Mechanical 15                           
+.Courtyard Bottom   Mechanical 16                           
+.GML                Multi-Layer                             
+.1                  Dielectric 1                            
+------------------------------------------------------------------------------------------

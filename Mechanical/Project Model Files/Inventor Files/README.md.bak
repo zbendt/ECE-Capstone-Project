@@ -1,0 +1,37 @@
+#	Inventor Files
+
+For this project there was quite a few custom designed mechanical structures that were needed. These included small things like simple fasteners or mounts to 
+more complex components, like a 3 point motor mounting platform and electrical covers. Each directory is named for the parts it contains and we have sorted
+the parts by source to try and give some organization to the overall directory. For example, parts that are sourced externally (bought or given) from 
+a site such as McMaster Carr are sorted into the McMaster directory. Simple parts such as bolts, nuts, etc are not sourced explicitly (because they are 
+so prevalent) and are instead just placed into a general directory called "Metric Bolts" or "Metric Nuts" 
+
+Below is a general description of the different directories and what they contain 
+
+## Custom Delta
+
+This directory contains all of the custom made components for the current revision of the Delta robot. All of the files contained in this directory have 
+been custom made/designed/modeled by Jorian Bruslind. 
+
+## Delta Bot
+
+This directory contains the orignial file for a base model Delta robot designed by daGHIZmo on Thingiverse. We used this as a model reference to see 
+how a Delta robot looks like using 3D printed components. I highly reccomend to check out his thingiverse profile, it has got some great stuff
+
+![Link here](https://www.thingiverse.com/daGHIZmo/about)
+
+## McMaster Files
+
+## Digikey Files
+
+## Sparkfun Files 
+
+## Metric Nuts/Bolts
+
+
+##	UWROV19
+
+This project is the Underwater ROV team 2018-2019 circuit board files. All of these were custom designed to fit with 
+the ROV. 
+
+![More information here!](https://github.com/Jbruslind/PersonalProjects/tree/master/Altium_Circuitmaker%20Projects/UROV1819)

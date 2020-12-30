@@ -1,0 +1,269 @@
+*************************************************************
+FileName = End_Effector.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : End_Effector.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : End_Effector.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : End_Effector.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : End_Effector.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : End_Effector.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D18
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : End_Effector.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : End_Effector.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : End_Effector.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : End_Effector.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D18
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : End_Effector.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Outline
+      File : End_Effector.Outline
+
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Assembly Text Top
+      File : End_Effector.Assembly Text Top
+
+    Adding Layer      : Assembly Text Top
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Assembly Top
+      File : End_Effector.Assembly Top
+
+    Adding Layer      : Assembly Top
+
+
+Used DCodes :
+    D18
+    D25
+    D42
+*************************************************************
+
+*************************************************************
+Generating : 3D Top
+      File : End_Effector.3D Top
+
+    Adding Layer      : 3D Top
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : 3D Bottom
+      File : End_Effector.3D Bottom
+
+    Adding Layer      : 3D Bottom
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Top
+      File : End_Effector.Courtyard Top
+
+    Adding Layer      : Courtyard Top
+
+
+Used DCodes :
+    D18
+    D41
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Courtyard Bottom
+      File : End_Effector.Courtyard Bottom
+
+    Adding Layer      : Courtyard Bottom
+
+
+Used DCodes :
+    D25
+*************************************************************
+
